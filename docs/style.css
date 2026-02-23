@@ -15,7 +15,7 @@ body {
   src: url(Spectral-Regular.ttf);
 }
 
-section.topbar {
+section#topbar {
   position: absolute;
   top: 0px;
   left: 0px;
