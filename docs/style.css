@@ -21,7 +21,8 @@ section#topbar {
   left: 0px;
   right: 0px;
   background-image: url(banner.png);
-  height: 600px;
+  height: 40vh;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-y: bottom;
 }
