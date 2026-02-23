@@ -15,9 +15,13 @@ body {
   src: url(Spectral-Regular.ttf);
 }
 
-img.banner {
+section.topbar {
+  position: absolute;
+  top: 0px;
   left: 0px;
   right: 0px;
-  top: 0px;
-  position: absolute;
+  background-image: url(banner.png);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
