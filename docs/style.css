@@ -6,7 +6,7 @@ main, body {
 body {
   background: url(ocean.png);
   background-repeat: repeat;
-  background-size: 10vh inherit;
+  background-size: initial 10vh;
   color: black;
   font-family: "main";
   font-size: 2vh;
