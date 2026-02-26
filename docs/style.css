@@ -23,5 +23,13 @@ section#topbar {
   background-size: cover;
   background-position: bottom;
   width: 100vw;
-  height: 60vh;
+  height: 80vh;
+}
+
+section#content {
+  position: absolute;
+  top: 0;
+  left: 5em;
+  right: 5em;
+  background-color: #ffee80;
 }
