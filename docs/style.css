@@ -19,7 +19,7 @@ section#topbar {
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url(favicon.jpeg);
+  background-image: url(banner.png);
   background-size: cover;
   width: 100vw;
   height: 50vh;
