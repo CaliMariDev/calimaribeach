@@ -4,7 +4,7 @@ main, body {
 }
 
 body {
-  background-color: #d4dbff;
+  background-color: #fafaff;
   color: black;
   font-family: "main";
   font-size: 2.5vh;
@@ -13,23 +13,4 @@ body {
 @font-face {
   font-family: "main";
   src: url(Spectral-Regular.ttf);
-}
-
-section#topbar {
-  position: absolute;
-  left: 0;
-  top: 0;
-  background-image: url(banner.png);
-  background-size: cover;
-  background-position: bottom;
-  width: 100vw;
-  height: 80vh;
-}
-
-section#content {
-  position: absolute;
-  top: 0;
-  left: 5em;
-  right: 5em;
-  background-color: #ffee80;
 }
